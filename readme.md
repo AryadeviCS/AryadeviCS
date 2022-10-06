@@ -5,7 +5,7 @@ MCA Student
 --------------------------
 
 * 🌍  I'm based in Kerala)
-* ✉️  You can contact me at [bonymathewpathil@gmail.com](mailto:bonymathewpathil@gmail.com)
+* ✉️  You can contact me at [aryadevics2612@gmail.com](mailto:aryadevics2612@gmail.com)
 * 🚀  I'm currently working on [Inovus Labs](http://inovuslabs.org)
 * 👨‍🎓  I'm currently working as Campus Ambassador of Gtech Mulearn
 * 🧠  I'm learning Figma, web Development, etc.....
